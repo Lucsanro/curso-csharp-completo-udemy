@@ -1,0 +1,8 @@
+C:\CursoCSharp\Comentarios\Comentarios\bin\Debug\Comentarios.exe.config
+C:\CursoCSharp\Comentarios\Comentarios\bin\Debug\Comentarios.exe
+C:\CursoCSharp\Comentarios\Comentarios\bin\Debug\Comentarios.pdb
+C:\CursoCSharp\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.AssemblyReference.cache
+C:\CursoCSharp\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Comentarios\Comentarios\obj\Debug\Comentarios.exe
+C:\CursoCSharp\Comentarios\Comentarios\obj\Debug\Comentarios.pdb
