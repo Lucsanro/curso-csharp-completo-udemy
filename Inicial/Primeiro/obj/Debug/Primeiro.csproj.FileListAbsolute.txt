@@ -1,0 +1,11 @@
+C:\CursoCSharp\Inicial\Primeiro\bin\Debug\Primeiro.exe.config
+C:\CursoCSharp\Inicial\Primeiro\bin\Debug\Primeiro.exe
+C:\CursoCSharp\Inicial\Primeiro\bin\Debug\Primeiro.pdb
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.Form1.resources
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.exe
+C:\CursoCSharp\Inicial\Primeiro\obj\Debug\Primeiro.pdb
