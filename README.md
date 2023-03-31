@@ -12,6 +12,6 @@ Seção 3: Organizar o código
 Seção 4: Variáveis, Constantes e tipos de dados  
 
 Seção 5: Entrada e saída de dados  
-
 Seção 6: Conversão de tipos de dados  
 
+Seção 7: Operadores  
