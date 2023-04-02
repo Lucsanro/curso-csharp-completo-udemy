@@ -16,3 +16,5 @@ Seção 5: Entrada e saída de dados
 Seção 6: Conversão de tipos de dados  
 
 Seção 7: Operadores  
+
+Seção 8: 
