@@ -17,4 +17,5 @@ Seção 6: Conversão de tipos de dados
 
 Seção 7: Operadores  
 
-Seção 8: 
+Seção 8: Coleções do tipo array  
+
