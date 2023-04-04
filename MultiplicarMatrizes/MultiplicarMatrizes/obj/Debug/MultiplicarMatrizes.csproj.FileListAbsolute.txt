@@ -1,0 +1,8 @@
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.AssemblyReference.cache
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
+C:\CursoCSharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb
