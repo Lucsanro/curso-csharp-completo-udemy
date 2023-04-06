@@ -1,0 +1,8 @@
+C:\CursoCSharp\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\CursoCSharp\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\CursoCSharp\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\CursoCSharp\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\CursoCSharp\Condicao\Condicao\obj\Debug\Condicao.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\CursoCSharp\Condicao\Condicao\obj\Debug\Condicao.pdb
