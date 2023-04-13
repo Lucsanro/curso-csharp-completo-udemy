@@ -19,4 +19,6 @@ Seção 7: Operadores
 
 Seção 8: Coleções do tipo array  
 
-Seção 9: Estruturas condicionais
+Seção 9: Estruturas condicionais  
+
+Seção 10: Estruturas de controle
