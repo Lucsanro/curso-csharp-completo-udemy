@@ -1,0 +1,8 @@
+C:\CursoCSharp\Controle\Controle\bin\Debug\Controle.exe.config
+C:\CursoCSharp\Controle\Controle\bin\Debug\Controle.exe
+C:\CursoCSharp\Controle\Controle\bin\Debug\Controle.pdb
+C:\CursoCSharp\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\CursoCSharp\Controle\Controle\obj\Debug\Controle.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Controle\Controle\obj\Debug\Controle.exe
+C:\CursoCSharp\Controle\Controle\obj\Debug\Controle.pdb
