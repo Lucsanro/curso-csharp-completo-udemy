@@ -26,3 +26,5 @@ Seção 9: Estruturas condicionais
 Seção 10: Estruturas de controle
 
 Seção 11: Estruturas de repetição
+
+Seção 12: Programação Orientada a Objetos (POO)
