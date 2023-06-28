@@ -1,0 +1,8 @@
+C:\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+C:\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb

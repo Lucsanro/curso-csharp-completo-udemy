@@ -1,0 +1,8 @@
+C:\CursoCSharp\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe.config
+C:\CursoCSharp\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe
+C:\CursoCSharp\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.pdb
+C:\CursoCSharp\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.AssemblyReference.cache
+C:\CursoCSharp\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.exe
+C:\CursoCSharp\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.pdb

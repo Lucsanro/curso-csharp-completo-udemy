@@ -1,0 +1,8 @@
+C:\CursoCSharp\POO\TermoThis\bin\Debug\TermoThis.exe.config
+C:\CursoCSharp\POO\TermoThis\bin\Debug\TermoThis.exe
+C:\CursoCSharp\POO\TermoThis\bin\Debug\TermoThis.pdb
+C:\CursoCSharp\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+C:\CursoCSharp\POO\TermoThis\obj\Debug\TermoThis.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\POO\TermoThis\obj\Debug\TermoThis.exe
+C:\CursoCSharp\POO\TermoThis\obj\Debug\TermoThis.pdb
