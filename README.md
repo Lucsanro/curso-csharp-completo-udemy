@@ -3,7 +3,7 @@ Meus exercícios, programas e estudos do Curso **C# Completo e Profissional** da
 
 Link para acessar o curso da Udemy [aqui](https://www.udemy.com/course/csharp-completo-e-profissional/).
 
-<h3>Módulos:</h3>
+<h2>Módulos:</h2>
 
 Seção 1: Introdução  
 
