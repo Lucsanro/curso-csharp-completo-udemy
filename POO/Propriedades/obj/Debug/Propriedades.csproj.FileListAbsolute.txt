@@ -1,0 +1,8 @@
+C:\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.pdb
