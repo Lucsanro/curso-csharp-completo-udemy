@@ -1,0 +1,8 @@
+C:\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.pdb
